@@ -1,0 +1,1926 @@
+[DEBUG] 2020-09-06 18:32:55.476 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 18:32:55.690 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 18:32:58.485 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 18:33:00.539 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 18:33:00.710 [main] LoginTest - Cerrando sesión
+[DEBUG] 2020-09-06 18:33:01.573 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 18:33:02.214 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 18:33:02.390 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 18:33:02.573 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 18:33:04.612 [main] LoginTest - Inicio de sesión fallido - Password Incorrecto
+[DEBUG] 2020-09-06 18:33:04.696 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 18:33:05.332 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 18:33:05.539 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 18:33:05.777 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 18:33:07.806 [main] LoginTest - Inicio de sesión fallido - Username Incorrecto
+[DEBUG] 2020-09-06 18:33:07.889 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 19:00:46.521 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 19:00:46.746 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 19:00:48.696 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 19:00:50.755 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 19:00:50.949 [main] LoginTest - Cerrando sesión
+[DEBUG] 2020-09-06 19:00:51.757 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 19:00:52.426 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 19:00:52.631 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 19:00:53.140 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 19:00:55.184 [main] LoginTest - Inicio de sesión fallido - Password Incorrecto
+[DEBUG] 2020-09-06 19:00:55.272 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 19:00:55.942 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 19:00:56.149 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 19:00:56.385 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 19:00:58.416 [main] LoginTest - Inicio de sesión fallido - Username Incorrecto
+[DEBUG] 2020-09-06 19:00:58.529 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 20:06:15.817 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:06:16.103 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:06:17.678 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:06:19.767 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:06:20.800 [main] LoginTest - Cerrando sesión
+[DEBUG] 2020-09-06 20:06:21.585 [main] LoginTest - Cargando página de nuevo
+[DEBUG] 2020-09-06 20:10:55.290 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:10:55.512 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:10:57.014 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:10:59.085 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:15:00.038 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:15:00.273 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:15:02.970 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:15:05.048 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:21:30.190 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:21:30.476 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:21:32.938 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:21:34.992 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:31:56.718 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:31:56.957 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:31:58.283 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:32:00.361 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:32:00.545 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:32:08.708 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:34:53.321 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:34:53.559 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:34:55.039 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:34:57.097 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:35:05.309 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:35:13.435 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:37:43.696 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:37:43.937 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-06 20:37:46.995 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-06 20:37:49.060 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-06 20:37:57.291 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-06 20:38:05.442 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:07:45.695 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:07:45.957 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:07:50.221 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:07:52.269 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:09:33.692 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:09:33.947 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:09:37.032 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:09:39.085 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:13:54.960 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:13:55.218 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:13:57.879 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:13:59.955 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:14:53.057 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:14:53.262 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:14:55.814 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:14:57.862 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:16:13.352 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:16:13.591 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:16:15.233 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:16:17.302 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:22:38.310 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:22:38.543 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:22:39.743 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:22:41.798 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:24:43.976 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:24:44.200 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:24:45.873 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:24:47.952 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:26:05.397 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:26:05.655 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:26:07.941 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:26:10.006 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:27:42.576 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:27:42.802 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:27:46.237 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:27:48.307 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:33:29.565 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:33:29.813 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:33:30.968 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:33:33.042 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:37:24.390 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:37:24.617 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:37:25.906 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:37:27.979 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:41:44.510 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:41:44.757 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:41:45.998 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:41:48.054 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:44:00.299 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:44:00.550 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:44:01.796 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:44:03.873 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:44:43.580 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:44:43.799 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:44:45.055 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:44:47.124 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:47:26.619 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:47:26.823 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:47:28.075 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:47:30.159 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 16:48:09.336 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 16:48:09.566 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 16:48:12.161 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 16:48:14.219 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 18:18:02.002 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 18:18:02.271 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 18:18:04.030 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 18:18:06.098 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 18:19:12.005 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 18:19:12.280 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 18:19:16.337 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 18:19:18.398 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 18:21:00.893 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 18:21:01.131 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 18:21:04.317 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 18:21:06.389 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 18:24:12.364 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 18:24:12.570 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 18:24:14.691 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 18:24:16.767 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 18:26:33.118 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 18:26:33.424 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 18:26:37.469 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 18:26:39.532 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 18:28:30.791 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 18:28:31.032 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 18:28:32.737 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 18:28:34.809 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 19:00:51.527 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 19:00:51.764 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 19:01:11.539 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 19:01:13.623 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-07 19:25:18.492 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-07 19:25:18.745 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-07 19:25:21.057 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-07 19:25:23.140 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 02:18:08.468 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 02:18:15.879 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 02:18:16.142 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 02:18:33.724 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 02:18:35.796 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 02:20:15.660 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 02:20:22.063 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 02:20:22.358 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 02:20:28.580 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 02:20:30.651 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 02:26:14.777 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 02:26:21.171 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 02:26:21.422 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 02:26:35.133 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 02:26:37.216 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 09:59:52.604 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 09:59:52.838 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 09:59:54.766 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 09:59:56.852 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 09:59:56.976 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 10:00:05.214 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 10:01:06.966 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 10:01:13.636 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 10:01:13.906 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 10:01:15.254 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 10:01:17.337 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 10:03:07.305 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 10:03:14.069 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 10:03:14.311 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 10:03:15.883 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 10:03:17.941 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 15:35:34.581 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 15:35:43.848 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 15:35:44.118 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 15:35:45.983 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 15:35:48.044 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 15:53:36.608 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 15:53:43.526 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 15:53:43.794 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 15:53:45.385 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 15:53:47.432 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 15:55:52.934 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 15:55:53.173 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 15:55:55.402 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 15:55:57.463 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 15:56:04.660 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 15:56:06.899 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 16:00:53.122 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 16:00:53.372 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 16:00:55.479 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 16:00:57.561 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 16:01:04.856 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 16:01:07.005 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 16:01:07.193 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 16:04:00.762 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 16:04:01.008 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 16:04:03.337 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 16:04:05.393 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 16:04:12.694 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 16:04:14.831 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 16:04:15.015 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 16:04:15.124 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 16:04:15.249 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 16:08:47.495 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 16:08:47.695 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 16:08:49.461 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 16:08:51.508 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 16:08:58.748 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 16:09:00.884 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 16:09:01.053 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 16:09:01.165 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 16:09:01.286 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 16:17:28.266 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 16:17:28.493 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 16:17:29.655 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 16:17:31.741 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 16:17:38.949 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 16:17:41.090 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 16:17:41.273 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 16:17:41.384 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 16:17:41.508 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 17:23:53.481 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 17:23:53.742 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 17:23:55.792 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 17:23:57.869 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 17:24:05.055 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 17:24:07.183 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 17:24:07.372 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 17:24:07.480 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 17:24:07.598 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 17:24:07.659 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-08 17:30:12.176 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 17:30:12.416 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 17:30:13.603 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 17:30:15.661 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 17:30:22.892 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 17:30:25.011 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 17:30:25.232 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 17:30:25.382 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 17:30:25.544 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 17:30:25.638 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-08 17:35:26.282 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 17:35:26.510 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 17:35:27.794 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 17:35:29.849 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 17:35:37.544 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 17:35:39.697 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 17:35:39.885 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 17:35:40.027 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 17:35:40.189 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 17:35:40.263 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-08 18:03:25.859 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 18:03:26.120 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 18:03:27.449 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 18:03:29.531 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 18:03:29.620 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 18:03:37.762 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 18:26:04.973 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 18:26:05.215 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 18:26:06.894 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 18:26:08.969 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 18:26:16.159 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 18:26:18.294 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 18:26:18.451 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 18:26:18.557 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 18:26:18.679 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 18:26:18.766 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-08 18:30:58.406 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-08 18:30:58.641 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-08 18:30:59.978 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-08 18:31:02.052 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-08 18:31:09.246 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-08 18:31:11.372 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-08 18:31:11.620 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-08 18:31:11.748 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-08 18:31:11.879 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-08 18:31:11.942 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 21:17:20.718 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 21:17:20.999 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 21:17:22.583 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 21:17:24.667 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 21:17:31.838 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 21:17:35.397 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 21:17:35.609 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 21:17:35.717 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 21:17:35.829 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 21:17:35.922 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 21:36:00.430 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 21:36:00.705 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 21:36:02.921 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 21:36:04.982 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 21:36:12.197 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 21:36:14.377 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 21:36:14.567 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 21:36:14.673 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 21:36:14.829 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 21:36:14.921 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 21:36:15.032 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 21:36:15.131 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 21:37:57.436 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 21:37:57.690 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 21:38:00.057 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 21:38:02.111 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 21:38:09.430 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 21:38:11.548 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 21:38:11.757 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 21:38:11.867 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 21:38:11.978 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 21:38:12.039 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 21:38:12.109 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 21:38:14.189 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:05:46.932 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:05:47.171 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:05:48.387 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:05:50.455 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:05:57.674 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:05:59.823 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:06:00.010 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:06:00.123 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:06:00.248 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:06:00.328 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:06:00.422 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:06:02.566 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:13:18.980 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:13:19.214 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:13:20.473 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:13:22.528 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:13:29.748 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:13:31.891 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:13:32.074 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:13:32.181 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:13:32.295 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:13:32.392 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:13:32.484 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:13:34.628 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:19:01.087 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:19:01.324 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:19:02.627 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:19:05.252 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:19:12.445 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:19:14.588 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:19:14.856 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:19:14.969 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:19:15.087 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:19:15.164 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:23:39.902 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:23:40.215 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:23:44.290 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:23:46.375 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:23:53.583 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:23:55.708 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:23:55.915 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:23:56.037 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:23:56.158 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:23:56.266 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:23:56.360 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:23:58.508 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:27:29.738 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:27:30.002 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:27:31.195 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:27:33.283 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:27:40.531 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:27:42.680 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:27:44.126 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:27:44.232 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:27:44.377 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:27:44.486 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:27:44.576 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:27:46.731 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:35:34.823 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:35:35.061 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:35:38.186 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:35:40.263 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:35:51.799 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:35:53.933 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:35:54.198 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:35:54.300 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:35:54.412 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:35:54.508 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:35:54.608 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:35:56.755 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:38:22.724 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:38:22.967 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:38:24.239 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:38:26.290 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:38:37.760 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:38:39.909 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:38:40.073 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:38:40.208 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:38:40.323 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:38:40.415 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:38:40.543 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:38:42.695 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:44:17.280 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:44:17.519 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:44:18.837 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:44:20.894 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:44:32.508 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:44:34.632 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:44:34.852 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:44:34.960 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:44:35.108 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:44:35.213 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:44:35.296 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:44:37.478 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:46:52.027 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:46:52.258 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:46:54.629 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:46:56.683 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:47:08.203 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:47:10.331 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:47:10.549 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:47:10.658 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:47:10.790 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:47:10.885 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:47:10.984 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:47:13.133 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-09 22:57:12.409 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:57:12.671 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:57:13.892 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:57:15.946 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:57:27.537 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:57:29.671 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:57:29.890 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:57:29.986 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:57:30.165 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:57:30.259 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:57:30.359 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:57:32.547 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-09 22:57:34.828 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-09 22:58:34.340 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 22:58:34.640 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 22:58:36.495 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 22:58:38.542 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 22:58:50.103 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 22:58:52.234 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 22:58:52.398 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 22:58:52.504 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 22:58:52.621 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 22:58:52.703 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:58:52.797 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 22:58:54.909 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-09 22:58:57.131 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-09 23:04:55.582 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 23:04:55.840 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 23:04:58.456 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 23:05:00.527 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 23:05:12.028 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 23:05:14.158 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 23:05:14.348 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 23:05:14.471 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 23:05:14.617 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 23:05:14.695 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 23:05:14.796 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-09 23:05:14.890 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-09 23:05:17.039 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-09 23:05:19.259 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-09 23:46:05.142 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 23:46:05.400 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 23:46:08.491 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 23:46:10.573 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 23:46:22.074 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 23:46:22.460 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 23:48:44.995 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 23:48:45.203 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 23:48:48.510 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 23:48:50.581 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 23:49:02.083 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 23:49:05.914 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 23:49:06.083 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 23:49:06.192 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 23:49:06.322 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 23:49:06.433 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 23:49:06.516 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-09 23:49:06.617 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-09 23:49:08.787 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-09 23:49:10.994 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-09 23:49:11.064 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 23:53:35.771 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-09 23:53:36.007 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-09 23:53:38.533 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-09 23:53:40.585 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-09 23:53:52.132 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-09 23:53:54.261 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-09 23:53:54.485 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-09 23:53:54.595 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-09 23:53:54.711 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-09 23:53:54.789 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-09 23:53:54.914 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-09 23:53:55.034 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-09 23:53:57.213 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-09 23:53:59.398 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-09 23:53:59.471 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:02:09.671 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:02:09.899 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:02:14.809 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:02:16.892 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:02:28.377 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:02:30.507 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:02:30.700 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:02:30.806 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:02:30.924 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:02:31.016 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:02:31.108 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:02:31.189 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:02:33.318 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 00:07:37.626 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:07:37.874 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:07:40.487 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:07:42.549 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:07:53.983 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:07:56.106 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:07:56.278 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:07:56.391 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:07:56.546 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:07:56.654 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:07:56.733 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:07:56.822 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:07:58.949 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 00:09:01.193 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:09:01.419 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:09:04.621 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:09:06.693 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:09:18.247 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:09:20.375 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:09:20.534 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:09:20.687 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:09:20.858 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:09:20.956 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:09:21.045 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:09:21.136 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:09:23.304 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 00:12:45.207 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:12:45.455 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:12:48.588 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:12:50.662 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:13:02.130 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:13:04.263 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:13:04.479 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:13:04.589 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:13:04.712 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:13:04.797 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:13:04.890 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:13:04.974 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:13:07.132 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 00:36:49.936 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:36:50.192 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:36:52.671 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:36:54.739 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:37:06.336 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:37:08.454 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:37:08.629 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:37:08.731 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:37:08.843 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:37:08.974 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:37:09.097 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:37:09.184 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:37:11.355 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 00:37:55.599 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:37:55.825 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:37:58.654 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:38:00.722 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:38:12.240 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:38:14.358 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:38:14.516 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:38:14.619 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:38:14.744 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:38:14.823 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:38:14.923 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:38:15.058 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:38:17.228 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 00:42:52.473 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:42:52.730 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:42:54.665 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:42:56.737 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:43:08.358 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:43:10.494 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:43:10.716 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:43:10.836 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:43:10.956 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:43:11.051 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:43:11.155 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:43:11.262 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:43:13.432 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 00:43:15.560 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente1
+[DEBUG] 2020-09-10 00:53:37.951 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 00:53:38.184 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 00:53:39.361 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 00:53:41.446 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 00:53:54.539 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 00:53:56.681 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 00:53:56.855 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 00:53:56.955 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 00:53:57.113 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 00:53:57.195 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 00:53:57.298 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 00:53:57.392 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 00:53:59.540 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 00:54:01.660 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente5
+[INFO ] 2020-09-10 00:54:01.718 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[INFO ] 2020-09-10 00:54:01.763 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[INFO ] 2020-09-10 00:54:01.881 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 01:03:32.699 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:03:32.988 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:03:34.774 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:03:36.832 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:03:48.341 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:03:50.495 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:03:50.666 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:03:50.768 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:03:50.877 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:03:50.944 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:03:51.090 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:03:51.174 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:03:53.350 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 01:03:55.482 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente1
+[INFO ] 2020-09-10 01:03:55.570 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[INFO ] 2020-09-10 01:03:55.623 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 01:08:20.602 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:08:20.870 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:08:22.023 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:08:24.095 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:08:35.649 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:08:37.769 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:08:37.938 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:08:38.042 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:08:38.159 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:08:38.258 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:08:38.383 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:08:38.481 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:08:40.663 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 01:08:42.760 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente TABLA 4
+[INFO ] 2020-09-10 01:08:42.815 [main] MantenimientoDocSoporteTest - Documento Creado CorrectamenteCODIGO
+[INFO ] 2020-09-10 01:08:42.888 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente NOMBRE
+[INFO ] 2020-09-10 01:08:43.015 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 01:11:55.870 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:11:56.138 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:11:58.810 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:12:00.863 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:12:12.368 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:12:14.506 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:12:14.677 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:12:14.785 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:12:14.922 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:12:15.016 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:12:15.108 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:12:15.204 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:12:17.390 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 01:12:19.529 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente TABLA 9
+[INFO ] 2020-09-10 01:12:19.590 [main] MantenimientoDocSoporteTest - Documento Creado CorrectamenteCODIGO
+[DEBUG] 2020-09-10 01:13:01.328 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:13:01.566 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:13:04.732 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:13:06.807 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:13:18.302 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:13:20.435 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:13:20.605 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:13:20.736 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:13:20.851 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:13:20.923 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:13:21.028 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:13:21.160 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:13:23.288 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 01:13:25.393 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente TABLA 4
+[INFO ] 2020-09-10 01:13:25.447 [main] MantenimientoDocSoporteTest - Documento Creado CorrectamenteCODIGO
+[INFO ] 2020-09-10 01:13:25.502 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente NOMBRE
+[INFO ] 2020-09-10 01:13:25.629 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 01:32:46.495 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:32:46.714 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:32:48.829 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:32:50.894 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:33:02.336 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:33:04.468 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:33:04.638 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:33:04.750 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:33:04.877 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:33:04.944 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:33:05.016 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:33:05.101 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:33:07.241 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 01:33:09.330 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente TABLA 4
+[DEBUG] 2020-09-10 01:44:42.419 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:44:42.660 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:44:44.014 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:44:46.064 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:44:58.125 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:45:00.253 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:45:00.453 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:45:00.576 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:45:00.686 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:45:00.795 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:45:00.891 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:45:00.982 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:45:03.100 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 01:45:05.230 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente TABLA 4
+[INFO ] 2020-09-10 01:45:05.270 [main] MantenimientoDocSoporteTest - Documento Creado CorrectamenteCODIGOPPAA
+[INFO ] 2020-09-10 01:45:05.303 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente NOMBRETest
+[INFO ] 2020-09-10 01:45:05.428 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 01:51:00.437 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:51:00.709 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:51:02.873 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:51:04.931 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:51:16.425 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:51:18.564 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:51:18.722 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:51:18.831 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:51:18.948 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:51:19.038 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:51:19.170 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:51:19.293 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:51:21.450 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 01:55:25.051 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:55:25.317 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:55:26.548 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:55:28.595 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:55:40.136 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:55:42.270 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:55:42.455 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:55:42.563 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:55:42.688 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:55:42.811 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:55:42.927 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:55:43.035 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:55:45.198 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 01:58:12.795 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 01:58:13.045 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 01:58:14.973 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 01:58:17.068 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 01:58:28.621 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 01:58:30.778 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 01:58:31.007 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 01:58:31.110 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 01:58:31.232 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 01:58:31.320 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 01:58:31.420 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 01:58:31.509 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 01:58:33.661 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 02:05:40.039 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:05:40.240 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:05:43.046 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:05:45.093 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:05:56.659 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:05:58.780 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 02:05:58.996 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 02:05:59.101 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 02:05:59.212 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 02:05:59.289 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 02:05:59.389 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 02:05:59.476 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 02:06:01.646 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 02:14:07.067 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:14:07.309 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:14:09.004 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:14:11.067 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:14:22.497 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:14:24.633 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 02:14:24.822 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 02:14:24.922 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 02:14:25.036 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 02:14:25.142 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 02:14:25.233 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 02:14:25.339 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 02:14:27.477 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 02:14:29.611 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente TABLA 4
+[INFO ] 2020-09-10 02:14:29.673 [main] MantenimientoDocSoporteTest - Documento Creado CorrectamenteCODIGOPPAA
+[INFO ] 2020-09-10 02:14:29.719 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente NOMBRETest
+[INFO ] 2020-09-10 02:14:29.856 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 02:22:07.722 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:22:07.970 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:22:09.181 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:22:11.253 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:22:22.797 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:22:24.917 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 02:22:25.141 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 02:22:25.247 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 02:22:25.372 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 02:22:25.502 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 02:22:25.577 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 02:22:25.664 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 02:22:27.787 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 02:22:30.008 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 02:27:09.814 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:27:10.059 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:27:13.113 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:27:15.194 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:27:26.676 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:29:39.698 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:29:39.941 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:29:43.178 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:29:45.256 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:29:56.727 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:29:56.919 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 02:29:57.045 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 02:35:22.417 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:35:22.673 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:35:25.064 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:35:27.119 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:35:38.608 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:35:38.781 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 02:35:38.919 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 02:38:17.880 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:38:18.136 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:38:21.106 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:38:23.162 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:38:34.552 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:38:34.764 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 02:38:34.901 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 02:41:15.965 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:41:16.189 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:41:19.063 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:41:21.136 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:41:32.513 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:41:32.695 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 02:41:32.835 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 02:45:07.605 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:45:07.893 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:45:11.144 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:45:13.190 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:45:24.612 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:45:24.815 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 02:53:18.300 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 02:53:18.560 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 02:53:21.409 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 02:53:23.471 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 02:53:35.037 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 02:53:35.213 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 02:53:35.377 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 02:53:37.576 [main] MantenimientoDocSoporteTest - Click en Opcion de opcion Nombre
+[DEBUG] 2020-09-10 02:53:37.658 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 02:53:39.678 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:09:24.024 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:09:24.286 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:09:26.311 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:09:28.366 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:09:43.200 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:09:43.418 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:09:43.512 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:09:45.639 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:09:47.663 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:16:37.277 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:16:37.522 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:16:39.266 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:16:41.318 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:16:52.853 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:16:53.054 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:16:53.179 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:16:55.322 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:16:57.353 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:26:18.805 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:26:19.046 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:26:21.268 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:26:23.347 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:26:34.833 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:26:36.948 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:26:37.104 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:26:37.214 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:26:37.333 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:26:37.415 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:26:37.515 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:26:37.597 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:26:39.757 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:26:41.912 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:26:41.985 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:26:42.169 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:26:42.312 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:26:44.425 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:26:46.448 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:26:46.626 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:29:16.742 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:29:16.975 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:29:19.276 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:29:21.329 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:29:32.835 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:29:34.968 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:29:35.143 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:29:35.244 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:29:35.410 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:29:35.527 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:29:35.608 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:29:35.706 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:29:37.886 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:29:40.074 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:29:40.146 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:29:40.334 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:29:40.469 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:29:42.622 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:29:44.643 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:29:44.828 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:29:46.920 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:39:58.762 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:39:59.049 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:40:01.323 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:40:03.378 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:40:14.935 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:40:17.055 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:40:17.251 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:40:17.349 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:40:17.485 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:40:17.577 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:40:17.708 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:40:17.803 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:40:19.977 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:40:22.188 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:40:22.254 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:40:22.421 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:40:22.565 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:40:24.715 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:40:26.740 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:40:26.916 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:40:28.965 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:44:12.811 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:44:13.065 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:44:15.367 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:44:17.414 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:44:28.976 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:44:31.122 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:44:31.356 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:44:31.484 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:44:31.643 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:44:31.727 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:44:31.829 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:44:31.924 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:44:34.070 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:44:36.277 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:44:36.357 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:44:36.517 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:44:36.674 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:44:38.824 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:44:40.847 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:44:41.088 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:44:43.154 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:47:31.080 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:47:31.326 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:47:32.538 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:47:34.610 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:47:46.157 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:47:48.290 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:47:48.501 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:47:48.597 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:47:48.720 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:47:48.789 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:47:48.921 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:47:49.002 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:47:51.196 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:47:53.415 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:47:53.484 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:47:53.670 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:47:53.787 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:47:55.906 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:47:57.934 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:47:58.109 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:48:00.216 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:48:00.385 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 03:48:00.506 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 03:53:52.490 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:53:52.728 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:53:55.406 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:53:57.474 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:54:09.011 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:54:11.125 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:54:11.312 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:54:11.415 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:54:11.536 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:54:11.600 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:54:11.744 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:54:11.862 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:54:14.037 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:54:16.281 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:54:16.346 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:54:16.530 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:54:16.671 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:54:18.809 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:54:20.828 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:54:21.031 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:54:23.147 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:54:23.357 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 03:54:23.485 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 03:56:12.584 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 03:56:12.833 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 03:56:15.463 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 03:56:17.539 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 03:56:29.010 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:56:31.149 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:56:31.355 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 03:56:31.477 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 03:56:31.598 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 03:56:31.712 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 03:56:31.847 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:56:31.940 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 03:56:34.102 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 03:56:36.301 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 03:56:36.377 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:56:36.559 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 03:56:36.696 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 03:56:38.834 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 03:56:40.863 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:56:41.078 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 03:56:43.203 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 03:56:43.367 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 03:56:43.482 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 03:56:43.565 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 03:56:43.633 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 03:56:43.771 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 03:56:45.946 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 04:01:14.780 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:01:15.026 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:01:16.201 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:01:18.278 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:01:29.805 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:01:31.927 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:01:32.090 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:01:32.196 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:01:32.326 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:01:32.424 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:01:32.515 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:01:32.609 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:01:34.791 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:01:36.968 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 04:01:37.046 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:01:37.224 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 04:01:37.349 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 04:01:39.477 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 04:01:41.502 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:01:41.668 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:01:43.779 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:01:43.963 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 04:01:44.083 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 04:01:44.160 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 04:01:44.223 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:01:44.358 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 04:01:46.566 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 04:02:47.006 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:02:47.229 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:02:48.500 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:02:50.567 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:03:02.065 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:03:04.190 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:03:04.345 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:03:04.457 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:03:04.573 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:03:04.675 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:03:04.765 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:03:04.853 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:03:07.006 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:03:09.188 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 04:03:09.259 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:03:09.444 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 04:03:09.588 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 04:03:11.688 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 04:03:13.719 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:03:14.005 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:03:16.093 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:03:16.296 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 04:03:16.420 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 04:03:16.502 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 04:03:16.566 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:03:16.652 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 04:03:18.811 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:03:20.960 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 04:39:34.835 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:39:35.089 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:39:36.336 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:39:38.685 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:39:50.284 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:39:52.425 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:39:52.580 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:39:52.754 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:39:52.877 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:39:52.982 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:39:53.078 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:39:53.170 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:39:55.365 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:39:57.524 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 04:39:57.606 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:39:57.675 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:39:59.731 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:40:19.849 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:41:52.309 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:41:52.587 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:41:53.884 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:41:55.951 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:42:07.541 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:42:09.689 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:42:09.888 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:42:09.997 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:42:10.116 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:42:10.204 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:42:10.298 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:42:10.384 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:42:12.538 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:42:14.718 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 04:42:14.781 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:42:14.849 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:42:16.890 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:42:36.989 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:44:44.567 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:44:44.827 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:44:46.049 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:44:48.121 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:44:59.652 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:47:20.456 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:47:20.700 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:47:22.568 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:47:24.646 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:47:36.126 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:50:19.605 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:50:19.873 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:51:06.916 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:51:07.170 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:51:09.517 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:51:11.565 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:51:23.013 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:51:25.138 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:51:25.298 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:51:25.403 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:51:25.526 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:51:25.601 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:51:25.704 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:51:25.790 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:51:27.950 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:51:30.156 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 04:51:30.227 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:54:20.399 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:54:20.625 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:54:21.980 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:54:24.026 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:54:37.680 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:54:39.796 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:54:39.987 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:54:40.087 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:54:40.236 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:54:40.330 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:54:40.421 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:54:40.502 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:54:42.662 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 04:54:44.909 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:54:45.356 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 04:54:46.062 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 04:54:48.225 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 04:54:50.389 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:54:52.452 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:55:12.573 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:55:12.692 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 04:55:12.813 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 04:55:14.900 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 04:57:19.115 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 04:57:19.346 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 04:57:20.593 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 04:57:22.668 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 04:57:34.203 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:57:36.346 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 04:57:36.565 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 04:57:36.667 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 04:57:36.776 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 04:57:36.852 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 04:57:36.951 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 04:57:37.039 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 04:57:39.200 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 04:57:41.407 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 04:57:41.484 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:57:41.659 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 04:57:41.925 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 04:57:44.090 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 04:57:46.215 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 04:57:48.262 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:00:59.277 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:00:59.506 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:01:01.621 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:01:03.704 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:01:15.208 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:01:17.330 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:01:17.531 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:01:17.653 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:01:17.769 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:01:17.850 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:01:17.953 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:01:18.086 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:01:20.232 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 05:01:22.525 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:02:24.147 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:02:24.413 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:02:27.706 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:02:29.763 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:02:41.193 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:02:43.327 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:02:43.512 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:02:43.622 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:02:43.750 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:02:43.827 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:02:43.921 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:02:44.006 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:02:46.130 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:02:48.369 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:02:48.448 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:02:48.637 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:02:48.811 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:02:50.912 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:02:53.139 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:02:55.256 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:02:55.404 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:02:55.521 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:02:55.595 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:02:55.692 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:02:55.797 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:02:57.963 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:03:00.134 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:03:00.194 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:03:00.288 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:03:00.416 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:03:02.543 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:03:04.708 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[DEBUG] 2020-09-10 05:08:46.621 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:08:46.880 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:08:49.699 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:08:51.747 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:09:03.258 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:09:05.378 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:09:05.564 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:09:05.669 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:09:05.794 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:09:05.904 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:09:06.032 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:09:06.117 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:09:08.290 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:09:10.583 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:09:10.662 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:09:10.845 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:09:10.974 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:09:13.153 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:09:15.419 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:09:17.513 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:09:17.691 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:09:17.798 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:09:17.888 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:09:17.974 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:09:18.065 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:09:20.290 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:09:22.468 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:09:22.522 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:09:22.617 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:09:22.707 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:09:24.846 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:09:26.992 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[DEBUG] 2020-09-10 05:16:34.503 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:16:34.754 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:16:36.010 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:16:38.064 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:16:49.566 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:16:51.706 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:16:51.888 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:16:51.999 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:16:52.117 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:16:52.207 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:16:52.297 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:16:52.384 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:16:54.506 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:16:56.773 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:16:56.861 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:16:57.046 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:16:57.226 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:16:59.353 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:17:01.600 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:17:03.688 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:17:03.838 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:17:03.949 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:17:04.035 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:17:04.133 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:17:04.225 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:17:06.427 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:17:08.638 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:17:08.714 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:17:08.815 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:17:08.923 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:17:11.063 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:17:13.256 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[DEBUG] 2020-09-10 05:20:28.251 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:20:28.490 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:20:29.684 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:20:31.758 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:20:43.334 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:20:45.462 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:20:45.626 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:20:45.722 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:20:45.885 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:20:45.976 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:20:46.122 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:20:46.219 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:20:48.412 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:20:50.603 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:20:50.676 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:20:50.861 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:20:51.011 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:20:53.127 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:20:55.383 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:20:57.486 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:20:57.649 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:20:57.784 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:20:57.886 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:20:57.973 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:20:58.052 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:21:00.216 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:21:02.344 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:21:02.418 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:21:02.527 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:21:02.629 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:21:04.760 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:21:06.965 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 05:21:09.325 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 05:23:51.908 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:23:52.159 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:23:53.492 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:23:55.540 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:24:07.094 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:24:09.226 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:24:09.382 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:24:09.493 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:24:09.609 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:24:09.705 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:24:09.797 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:24:09.891 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:24:12.068 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:24:14.255 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:24:14.318 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:24:14.491 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:24:14.606 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:24:16.728 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:24:18.929 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:24:21.041 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:24:21.243 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:24:21.361 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:24:21.439 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:24:21.505 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:24:21.594 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:24:23.745 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:24:25.923 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:24:26.001 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:25:54.341 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:25:54.575 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:25:57.797 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:25:59.854 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:26:11.277 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:26:13.409 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:26:13.628 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:26:13.734 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:26:13.859 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:26:13.953 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:26:14.046 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:26:14.135 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:26:16.257 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:26:18.513 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:26:18.608 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:26:18.810 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:26:18.961 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:26:21.100 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:26:23.319 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:26:25.377 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:26:25.577 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:26:25.701 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:26:25.785 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:26:25.881 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:26:25.980 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:26:28.150 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:26:30.357 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:26:30.423 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:26:30.525 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:26:30.625 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:26:32.755 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:26:34.943 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 05:26:37.392 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 05:27:25.049 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:27:25.299 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:27:26.587 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:27:28.636 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:27:40.133 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:27:42.262 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:27:42.423 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:27:42.527 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:27:42.653 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:27:42.727 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:27:42.828 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:27:42.909 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:27:45.038 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:27:47.311 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:27:47.388 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:27:47.565 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:27:47.694 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:27:49.803 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:27:52.030 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:27:54.128 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:27:54.330 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:27:54.479 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:27:54.574 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:27:54.661 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:27:54.743 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:27:56.933 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:27:59.102 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:27:59.161 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:27:59.258 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:27:59.374 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:28:01.505 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:28:03.682 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 05:28:06.030 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 05:45:23.305 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 05:45:23.583 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 05:45:24.773 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 05:45:26.826 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 05:45:38.318 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:45:40.450 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:45:40.607 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 05:45:40.714 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 05:45:40.857 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 05:45:40.970 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 05:45:41.108 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:45:41.187 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 05:45:43.318 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:45:45.501 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 05:45:45.569 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:45:45.807 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:45:45.938 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 05:45:48.039 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 05:45:50.275 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:45:52.365 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 05:45:52.555 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 05:45:52.688 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 05:45:52.783 [main] MantenimientoDocSoporteTest - Se edita tipo opcion abono
+[DEBUG] 2020-09-10 05:45:52.916 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 05:45:53.009 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 05:45:55.181 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 05:45:57.301 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 05:45:57.355 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 05:45:57.469 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 05:45:57.583 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 05:45:59.669 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 05:46:01.786 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 05:46:04.160 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 17:26:16.851 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:26:17.105 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:26:18.965 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:26:21.051 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:26:32.550 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:26:34.693 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:26:34.894 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 17:26:35.011 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 17:26:35.146 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 17:26:35.229 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 17:26:35.328 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 17:26:35.412 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 17:26:37.576 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 17:26:39.856 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:27:00.061 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:27:02.111 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:27:12.517 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:27:12.826 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 17:27:12.998 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 17:27:15.188 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 17:27:17.329 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 17:27:19.751 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 17:30:39.882 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:30:40.143 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:30:42.427 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:30:44.482 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:30:55.842 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:30:57.978 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:30:58.152 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 17:30:58.255 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 17:30:58.381 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 17:30:58.500 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 17:30:58.576 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 17:30:58.661 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 17:31:00.822 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 17:31:03.172 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:31:03.794 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 17:31:04.610 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 17:31:06.732 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 17:31:08.899 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:31:10.949 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:31:31.084 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:31:31.237 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 17:31:31.375 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 17:31:33.495 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 17:35:44.843 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:35:45.092 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:35:46.361 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:35:48.433 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:35:52.734 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:36:00.908 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:37:32.029 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:37:32.266 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:37:34.446 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:37:36.496 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:37:47.994 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:37:50.127 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:37:50.367 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 17:37:50.480 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 17:37:50.605 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 17:37:50.694 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 17:37:50.816 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 17:37:50.911 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 17:37:53.040 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 17:39:13.742 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:39:13.984 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:39:15.241 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:39:17.310 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:39:30.377 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:39:32.514 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:39:32.747 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 17:39:32.860 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 17:39:32.984 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 17:39:33.077 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 17:39:33.208 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 17:39:33.326 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 17:39:35.477 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 17:39:37.692 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 17:42:50.991 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:42:51.230 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:42:52.428 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:42:54.504 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:43:06.008 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:43:06.202 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 17:43:06.470 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 17:43:08.601 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 17:48:43.701 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:48:43.955 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:48:46.821 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:48:48.897 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:49:00.446 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:49:02.500 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:51:32.973 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:51:33.206 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:51:34.384 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:51:36.456 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:51:47.885 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:51:49.949 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 17:55:02.321 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 17:55:02.581 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 17:55:03.850 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 17:55:05.896 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 17:55:18.444 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:55:18.648 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 17:55:18.765 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 17:55:20.882 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 17:55:23.131 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 17:55:25.296 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:01:15.600 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:01:15.834 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:01:17.131 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:01:19.199 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:01:30.649 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:01:30.856 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:01:30.971 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:01:33.103 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:01:35.368 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:01:37.493 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:01:39.697 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:04:33.581 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:04:33.818 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:04:36.483 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:04:38.570 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:04:50.085 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:04:50.285 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:04:50.404 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:04:52.542 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:04:54.787 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:04:56.836 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:04:59.007 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:13:12.660 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:13:12.908 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:13:14.263 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:13:16.322 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:13:27.747 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:13:27.952 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:13:28.076 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:13:30.228 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:13:32.462 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:13:34.582 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:13:36.769 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:13:37.937 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:23:21.842 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:23:22.066 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:23:23.333 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:23:25.398 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:23:38.501 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:23:38.704 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:23:38.816 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:23:40.981 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:23:43.243 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:23:45.449 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:23:47.640 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:23:48.815 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:23:48.909 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-10 18:23:48.980 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:23:49.088 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 18:23:51.259 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:23:53.386 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 18:27:21.258 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:27:21.530 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:27:22.777 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:27:24.859 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:27:36.372 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:27:36.672 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:27:36.771 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:27:38.886 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:27:41.120 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:27:43.276 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:27:45.478 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:27:46.654 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:27:46.736 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-10 18:27:46.808 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:27:46.898 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 18:27:49.074 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:27:51.210 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 18:27:51.266 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:27:51.354 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:27:51.475 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 18:27:53.607 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 18:32:00.739 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:32:00.987 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:32:02.317 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:32:04.383 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:32:16.051 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:32:18.186 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:32:18.393 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:32:18.497 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:32:18.616 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:32:18.694 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:32:18.797 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:32:18.945 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:32:21.147 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:32:23.321 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 18:32:23.399 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:32:23.572 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:32:23.710 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:32:25.846 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:32:28.096 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:32:30.212 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:32:52.386 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:35:02.497 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:35:02.771 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:35:04.651 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:35:06.727 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:35:18.203 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:35:20.339 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:35:20.582 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:35:20.681 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:35:20.798 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:35:20.881 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:35:21.010 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:35:21.104 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:35:23.264 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 18:35:25.573 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:35:39.888 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:35:40.559 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:36:13.265 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:36:13.528 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:36:14.686 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:36:16.766 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:36:28.180 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:36:30.330 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:36:30.520 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:36:30.631 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:36:30.756 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:36:30.852 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:36:30.953 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:36:31.044 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:36:33.162 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:36:35.353 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 18:36:35.419 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:36:35.602 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:36:35.729 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:36:37.863 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:36:40.074 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:36:42.173 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:37:04.303 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:40:26.877 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:40:27.109 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:40:28.450 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:40:30.525 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:40:44.176 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:40:46.359 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:40:46.529 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:40:46.633 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:40:46.766 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:40:46.863 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:40:46.954 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:40:47.038 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:40:49.168 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 18:40:51.456 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:41:11.687 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:41:13.748 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:41:37.678 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:41:37.957 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:41:40.635 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:41:42.692 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:41:54.146 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:41:56.295 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:41:56.511 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:41:56.624 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:41:56.750 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:41:56.866 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:41:56.952 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:41:57.039 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:41:59.200 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[DEBUG] 2020-09-10 18:42:01.451 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:43:33.028 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:43:33.274 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:43:34.493 [main] LoginTest - Clic en botón Login
+[DEBUG] 2020-09-10 18:45:45.227 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:45:45.488 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:45:48.669 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:45:50.732 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:46:02.752 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:46:04.872 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:46:05.104 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:46:05.221 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:46:05.338 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:46:05.451 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:46:05.606 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:46:05.693 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:46:07.848 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:46:10.036 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 18:46:10.111 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:46:10.295 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:46:10.429 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:46:12.533 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:46:14.781 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:46:16.879 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:46:19.017 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:46:20.173 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:46:20.265 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-10 18:46:20.352 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:46:20.435 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 18:46:22.552 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:46:24.679 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 18:46:24.747 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:46:24.824 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:46:24.923 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 18:46:27.014 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 18:46:29.163 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 18:46:31.536 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 18:48:04.044 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:48:04.256 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:48:05.470 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:48:07.538 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:48:19.088 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:48:21.217 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:48:21.378 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:48:21.484 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:48:21.639 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:48:21.736 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:48:21.827 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:48:21.915 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:48:24.070 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:48:26.255 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 18:48:26.323 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:48:26.499 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:48:26.646 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:48:28.776 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:48:30.998 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:48:33.104 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:48:35.291 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:48:36.477 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:48:36.566 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-10 18:48:36.667 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:48:36.765 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 18:48:38.941 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:48:41.082 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 18:48:41.135 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:48:41.206 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:48:41.306 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 18:48:43.405 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 18:48:45.559 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[DEBUG] 2020-09-10 18:50:33.572 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:50:33.828 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:50:36.785 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:50:38.862 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:50:50.369 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:50:52.495 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:50:52.669 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:50:52.770 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:50:52.895 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:50:52.975 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:50:53.098 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:50:53.193 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:50:55.356 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:50:57.554 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 18:50:57.627 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:50:57.812 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:50:57.984 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:51:00.108 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:51:02.331 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:51:04.417 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:51:06.580 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:51:07.761 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:51:07.858 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-10 18:51:07.945 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:51:08.024 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 18:51:10.182 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:51:12.313 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 18:51:12.366 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:51:12.453 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:51:12.551 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 18:51:14.688 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 18:51:16.833 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 18:51:21.241 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-10 18:51:56.372 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-10 18:51:56.605 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-10 18:51:58.682 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-10 18:52:00.751 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-10 18:52:12.189 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:52:14.334 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:52:14.512 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-10 18:52:14.625 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-10 18:52:14.755 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-10 18:52:14.851 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-10 18:52:15.002 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:52:15.085 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-10 18:52:17.226 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:52:19.478 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-10 18:52:19.556 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:52:19.734 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:52:19.858 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-10 18:52:21.982 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-10 18:52:24.206 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:52:26.286 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-10 18:52:28.447 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-10 18:52:29.620 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-10 18:52:29.705 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-10 18:52:29.789 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-10 18:52:29.885 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-10 18:52:32.065 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-10 18:52:34.186 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-10 18:52:34.238 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-10 18:52:34.325 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-10 18:52:34.420 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-10 18:52:36.527 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-10 18:52:38.682 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-10 18:52:43.082 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-11 09:04:33.517 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-11 09:04:33.803 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-11 09:04:35.810 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-11 09:04:37.870 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-11 09:04:49.347 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 09:04:51.474 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-11 09:04:51.702 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-11 09:04:51.803 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-11 09:04:51.926 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-11 09:04:52.003 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-11 09:04:52.101 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-11 09:04:52.190 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-11 09:04:54.323 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-11 09:04:56.557 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-11 09:04:56.622 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 09:04:56.810 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-11 09:04:56.997 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-11 09:04:59.147 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-11 09:05:01.418 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 09:05:03.501 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-11 09:05:05.673 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-11 09:05:06.864 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-11 09:05:06.940 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-11 09:05:07.035 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-11 09:05:07.120 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-11 09:05:09.271 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-11 09:05:11.394 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-11 09:05:11.448 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 09:05:11.534 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-11 09:05:11.634 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-11 09:05:13.726 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-11 09:05:15.879 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-11 09:05:20.273 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
+[DEBUG] 2020-09-11 11:59:26.959 [main] LoginTest - Credenciales obtenidas del excel de data
+[DEBUG] 2020-09-11 11:59:27.249 [main] LoginTest - Credenciales completadas
+[DEBUG] 2020-09-11 11:59:29.251 [main] LoginTest - Clic en botón Login
+[INFO ] 2020-09-11 11:59:31.327 [main] LoginTest - Inicio de sesión correcto
+[DEBUG] 2020-09-11 11:59:42.835 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 11:59:44.980 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-11 11:59:45.177 [main] MantenimientoDocSoporteTest - Se ingresa Abreviatura
+[DEBUG] 2020-09-11 11:59:45.287 [main] MantenimientoDocSoporteTest - Se ingresa Nombre de Documento
+[DEBUG] 2020-09-11 11:59:45.431 [main] MantenimientoDocSoporteTest - Se ingresa descripción del Documento
+[DEBUG] 2020-09-11 11:59:45.555 [main] MantenimientoDocSoporteTest - Se ingresa tipo opcion abono
+[DEBUG] 2020-09-11 11:59:45.672 [main] MantenimientoDocSoporteTest - Se ingresa seccion Equiv Comercial
+[DEBUG] 2020-09-11 11:59:45.780 [main] MantenimientoDocSoporteTest - Se ingresa valor de Sistema Origen
+[DEBUG] 2020-09-11 11:59:47.913 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-11 11:59:50.118 [main] MantenimientoDocSoporteTest - Documento Creado Correctamente
+[DEBUG] 2020-09-11 11:59:50.312 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-11 11:59:50.508 [main] MantenimientoDocSoporteTest - Seteo de codigo nombre
+[DEBUG] 2020-09-11 11:59:52.630 [main] MantenimientoDocSoporteTest - Busqueda por Nombre
+[DEBUG] 2020-09-11 11:59:54.888 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 11:59:57.050 [main] MantenimientoDocSoporteTest - Clic en Nuevo Documento de Soporte
+[DEBUG] 2020-09-11 11:59:59.240 [main] MantenimientoDocSoporteTest - Se edita Nombre de Documento
+[DEBUG] 2020-09-11 12:00:00.414 [main] MantenimientoDocSoporteTest - Se edita descripción del Documento
+[DEBUG] 2020-09-11 12:00:00.534 [main] MantenimientoDocSoporteTest - Se edita tipo opcion Cargo
+[DEBUG] 2020-09-11 12:00:00.640 [main] MantenimientoDocSoporteTest - Se edita seccion Equiv Comercial
+[DEBUG] 2020-09-11 12:00:00.755 [main] MantenimientoDocSoporteTest - Se edita valor de Sistema Origen
+[DEBUG] 2020-09-11 12:00:02.908 [main] MantenimientoDocSoporteTest - Clic en Guardar
+[INFO ] 2020-09-11 12:00:05.030 [main] MantenimientoDocSoporteTest - Documento Soporte editado Correctamente
+[DEBUG] 2020-09-11 12:00:05.105 [main] MantenimientoDocSoporteTest - Datos obtenidos del excel de data
+[DEBUG] 2020-09-11 12:00:05.202 [main] MantenimientoDocSoporteTest - Clic en opcion de Filtro
+[DEBUG] 2020-09-11 12:00:05.341 [main] MantenimientoDocSoporteTest - Filtro por codigo para proceder con la eliminacion
+[DEBUG] 2020-09-11 12:00:07.450 [main] MantenimientoDocSoporteTest - Busqueda por Codigo o Abreviatura
+[DEBUG] 2020-09-11 12:00:09.621 [main] MantenimientoDocSoporteTest - Clic en opcion de de eliminar
+[INFO ] 2020-09-11 12:00:14.005 [main] MantenimientoDocSoporteTest - Documento Soporte Fue Eliminado Exitosamente
