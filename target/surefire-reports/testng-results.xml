@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="54702" started-at="2020-09-11T11:59:19 COT" finished-at="2020-09-11T12:00:14 COT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="54702" started-at="2020-09-11T11:59:19 COT" finished-at="2020-09-11T12:00:14 COT">
+      <class name="testCases.MantenimientoDocSoporteTest">
+        <test-method status="PASS" signature="conectarseConsensus()[pri:0, instance:testCases.MantenimientoDocSoporteTest@6a78afa0]" name="conectarseConsensus" is-config="true" duration-ms="23363" started-at="2020-09-11T11:59:19 COT" finished-at="2020-09-11T11:59:42 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conectarseConsensus -->
+        <test-method status="PASS" signature="MantenimientodDocSoporteCrearDocumentoCorrecto()[pri:1, instance:testCases.MantenimientoDocSoporteTest@6a78afa0]" name="MantenimientodDocSoporteCrearDocumentoCorrecto" duration-ms="7412" started-at="2020-09-11T11:59:42 COT" finished-at="2020-09-11T11:59:50 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MantenimientodDocSoporteCrearDocumentoCorrecto -->
+        <test-method status="PASS" signature="FiltroporCodigoCorrecto()[pri:2, instance:testCases.MantenimientoDocSoporteTest@6a78afa0]" name="FiltroporCodigoCorrecto" duration-ms="4663" started-at="2020-09-11T11:59:50 COT" finished-at="2020-09-11T11:59:54 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FiltroporCodigoCorrecto -->
+        <test-method status="PASS" signature="MantenimientodDocSoporteEditarDocumentoCorrecto()[pri:3, instance:testCases.MantenimientoDocSoporteTest@6a78afa0]" name="MantenimientodDocSoporteEditarDocumentoCorrecto" duration-ms="10244" started-at="2020-09-11T11:59:54 COT" finished-at="2020-09-11T12:00:05 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MantenimientodDocSoporteEditarDocumentoCorrecto -->
+        <test-method status="PASS" signature="MantenimientodDocSoporteEliminarCorrecto()[pri:4, instance:testCases.MantenimientoDocSoporteTest@6a78afa0]" name="MantenimientodDocSoporteEliminarCorrecto" duration-ms="8975" started-at="2020-09-11T12:00:05 COT" finished-at="2020-09-11T12:00:14 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MantenimientodDocSoporteEliminarCorrecto -->
+      </class> <!-- testCases.MantenimientoDocSoporteTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

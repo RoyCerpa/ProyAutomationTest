@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: testCases.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 36.903 s <<< FAILURE! - in testCases.LoginTest
+loginPasswordIncorrectoTest(testCases.LoginTest)  Time elapsed: 8.205 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"name","selector":"username"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-UM3IKH9', ip: '192.168.21.99', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\ROYCER~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58481}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.83, webStorageEnabled: true}
+Session ID: 662798f81b23e51930cd842b7985143a
+*** Element info: {Using=name, value=username}
+	at testCases.LoginTest.loginPasswordIncorrectoTest(LoginTest.java:140)
+
+loginUsernameIncorrectoTest(testCases.LoginTest)  Time elapsed: 8.147 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"name","selector":"username"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-UM3IKH9', ip: '192.168.21.99', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\ROYCER~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58481}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 85.0.4183.83, webStorageEnabled: true}
+Session ID: 662798f81b23e51930cd842b7985143a
+*** Element info: {Using=name, value=username}
+	at testCases.LoginTest.loginUsernameIncorrectoTest(LoginTest.java:101)
+
